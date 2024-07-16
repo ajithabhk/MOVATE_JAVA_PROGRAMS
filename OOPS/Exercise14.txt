@@ -1,0 +1,14 @@
+class Invoice{
+String partNumber;
+String partDesc;
+int partQuant;
+int partprice;
+
+
+}
+
+public class Exercise14{
+public static void main(String args[]){
+
+}
+}
